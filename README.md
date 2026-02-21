@@ -1,5 +1,7 @@
 # Nexus Platform
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-View%20App-000000?style=flat&logo=vercel)](https://charged-pathfinder.vercel.app)
+
 A modern AI-powered platform for document management, intelligent chat, and Model Context Protocol (MCP) integration.
 
 ## 🚀 Features
